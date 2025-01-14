@@ -1,4 +1,4 @@
-**SQL MUSIC STORE ANALYSIS PROJECT **
+***SQL MUSIC STORE ANALYSIS PROJECT***
 
 🎵 Music Store Analysis
 A comprehensive SQL project designed to analyze and derive insights from a music store database. This project involves answering real-world business questions, offering a hands-on opportunity to explore and understand SQL concepts ranging from basic to advanced levels.
@@ -15,5 +15,9 @@ Tools & Technologies
 Database: PostgreSQL
 IDE/Tool: PgAdmin4
 
+
+**Schema - Music Store Database**
+
+![image](https://github.com/user-attachments/assets/fa6f38f4-c844-49ca-8193-5442fff4dad5)
 
 
